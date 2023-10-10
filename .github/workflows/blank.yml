@@ -15,6 +15,6 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Run IE Metrics
-      uses: velocitatem/OrgGithubMetrics@main
+      uses: velocitatem/OrgGithubRanking@main
       env:
         github_token: ${{ secrets.GITHUB_TOKEN }}
