@@ -11,13 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gringoloco7&label=Profile%20views&color=0e75b6&style=flat" alt="gringoloco7" /> </p>
 
-- 🔭 I’m currently working on [Botzo, a good boy (robot dog)](https://github.com/IERoboticsClub/botzo)
+- 🔭 I’m currently working on **[Botzo, a good boy (robot dog)](https://github.com/IERoboticsClub/botzo)**
 
 - 🌱 I’m currently learning **Computer Science and AI**
 
 - 🤝 I’m looking for help with **Reverse kinematic with MPU-6050**
 
 - 📫 How to reach me **gorlando.ieu2022@student.ie.edu**
+
+- 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1V9lLX-SseJfq-6GTA7hIBsJpSe58eJ3D/view)**
 
 - ⚡ Fun fact **I love ski. I dont have data on my computer but I am building a robot dog**
 
