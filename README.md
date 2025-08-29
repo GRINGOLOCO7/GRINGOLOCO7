@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gringoloco7&label=Profile%20views&color=0e75b6&style=flat" alt="gringoloco7" /> </p>
 
-- 🔭 I’m currently working on **[Botzo, a good boy (robot dog)]([https://github.com/IERoboticsAILab/botzo](https://github.com/IERoboticsAILab/botzo))**
+- 🔭 I’m currently working on **[Botzo, a good boy (robot dog)](https://github.com/IERoboticsAILab/botzo)**
 
 - 🌱 I’m currently learning **Computer Science and AI**
 
