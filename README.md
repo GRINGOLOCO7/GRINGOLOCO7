@@ -77,10 +77,10 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="40"></a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ros" alt="ROS 1 & ROS 2" title="ROS 1 Noetic · ROS 2" height="40"></a>
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"><img src="icons/fusion360.svg" alt="Fusion 360" title="Autodesk Fusion 360" height="40"></a>
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"><img src="fusion360.svg" alt="Fusion 360" title="Autodesk Fusion 360" height="40"></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" height="40"></a>
-  <a href="https://developer.nvidia.com/isaac/sim" target="_blank" rel="noreferrer"><img src="icons/nvidia.svg" alt="NVIDIA Isaac Sim" title="NVIDIA Isaac Sim" height="40"></a>
-  <a href="https://pybullet.org/" target="_blank" rel="noreferrer"><img src="icons/pybullet.svg" alt="PyBullet" title="PyBullet" height="40"></a>
+  <a href="https://developer.nvidia.com/isaac/sim" target="_blank" rel="noreferrer"><img src="nvidia.svg" alt="NVIDIA Isaac Sim" title="NVIDIA Isaac Sim" height="40"></a>
+  <a href="https://pybullet.org/" target="_blank" rel="noreferrer"><img src="pybullet.svg" alt="PyBullet" title="PyBullet" height="40"></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="40"></a>
@@ -88,7 +88,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="icons/pandas.svg" alt="Pandas" title="Pandas" height="40"></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="pandas.svg" alt="Pandas" title="Pandas" height="40"></a>
 </p>
 
 
