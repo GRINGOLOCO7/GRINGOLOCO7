@@ -63,81 +63,34 @@
 <h3 align="left">🤝 Connect with me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/gregorio-orlando-a482b8295" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-  </a>
-  <a href="mailto:greg.orlando77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28">
-  </a>
-  <a href="https://instagram.com/greg.orlando" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
-  </a>
+  <a href="https://linkedin.com/in/gregorio-orlando-a482b8295" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
+  <a href="mailto:greg.orlando77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"></a>
+  <a href="https://instagram.com/greg.orlando" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
 </p>
 
 <h3 align="left">🧰 Languages, Frameworks & Tools</h3>
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
-  </a>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40">
-  </a>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ROS_1-Noetic-22314E?style=flat&logo=ros&logoColor=white" alt="ROS 1 Noetic" height="28">
-  </a>
-  <a href="https://docs.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ROS_2-Robot%20Operating%20System-22314E?style=flat&logo=ros&logoColor=white" alt="ROS 2" height="28">
-  </a>
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Fusion_360-CAD-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Autodesk Fusion 360" height="28">
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="28">
-  </a>
-  <a href="https://developer.nvidia.com/isaac/sim" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NVIDIA-Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA Isaac Sim" height="28">
-  </a>
-  <a href="https://pybullet.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyBullet-Physics_Simulation-3766AB?style=flat&logo=python&logoColor=white" alt="PyBullet" height="28">
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40">
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
-  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="40"></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40"></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" height="40"></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="40"></a>
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ros" alt="ROS 1 & ROS 2" title="ROS 1 Noetic · ROS 2" height="40"></a>
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"><img src="icons/fusion360.svg" alt="Fusion 360" title="Autodesk Fusion 360" height="40"></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" height="40"></a>
+  <a href="https://developer.nvidia.com/isaac/sim" target="_blank" rel="noreferrer"><img src="icons/nvidia.svg" alt="NVIDIA Isaac Sim" title="NVIDIA Isaac Sim" height="40"></a>
+  <a href="https://pybullet.org/" target="_blank" rel="noreferrer"><img src="icons/pybullet.svg" alt="PyBullet" title="PyBullet" height="40"></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="40"></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="40"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="icons/pandas.svg" alt="Pandas" title="Pandas" height="40"></a>
 </p>
+
 
 <h3 align="left">📊 GitHub Stats</h3>
 
